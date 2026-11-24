@@ -12,7 +12,7 @@
 
 ## Introduction
 
-This package makes it easy to send notifications using [RocketChat](https://rocket.chat/) with Laravel 5.6+. 
+This package makes it easy to send notifications using [RocketChat](https://rocket.chat/) with Laravel 11+. 
 
 ## Contents
 

@@ -4,6 +4,13 @@ All notable changes to `laravel-notification-channels/rocket-chat` will be docum
 
 ## [Unreleased]
 
+## [0.4.0] - 2026-11-24
+
+### Changed
+
+- Added support for Laravel 11, Laravel 12 and Laravel 13
+- Removed support for Laravel versions below 11
+
 ## [0.3.0] - 2020-09-09
 
 ### Added
